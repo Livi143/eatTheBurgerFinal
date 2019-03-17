@@ -1,1 +1,1 @@
-# burger2
+This project utilizes CRUD actions to add and "devour" virtual hamburgers. The CRUD actions are implemented with a sequel pro database. The project utilizes the traditional MVC design patter, and can is deployed on heroku at https://tranquil-lake-49922.herokuapp.com/burgers. 
